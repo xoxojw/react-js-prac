@@ -1,9 +1,0 @@
-[submodule "week-1-component-practice"]
-	path = week-1-component-practice
-	url = https://github.com/xoxojw/react-practice.git
-[submodule "week-1-usestate-practice"]
-	path = week-1-usestate-practice
-	url = https://github.com/xoxojw/react-practice.git
-[submodule "counter-app"]
-	path = counter-app
-	url = https://github.com/xoxojw/react-practice.git
