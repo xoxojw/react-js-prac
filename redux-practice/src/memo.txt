@@ -1,0 +1,6 @@
+<폴더 설명>
+redux : redux 관련 코드 파일
+config : redux 설정 관련 파일
+configStore : 중앙 state 관리소 -> 설정 코드 (.js) 파일
+modules : state의 그룹
+  ex. Todo-list 프로젝트를 만든다면 todo.js 파일
